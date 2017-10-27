@@ -1,1 +1,1 @@
-# GitHub-bGM-ELM-code
+Run the Main_SDOF.m to see how it works.
